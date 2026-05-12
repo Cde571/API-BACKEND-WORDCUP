@@ -1,0 +1,2041 @@
+{
+  "generatedAt": "2026-05-12T19:14:45.661Z",
+  "totalTeams": 48,
+  "totalMatches": 72,
+  "totalPlayers": 349,
+  "totalSaved": 349,
+  "report": [
+    {
+      "group": "A",
+      "code": "MEX",
+      "name": "Mexico",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "A",
+      "code": "RSA",
+      "name": "South Africa",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "FW",
+          "name": "Portero",
+          "age": null,
+          "club": "Siwelele F. C.",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 28,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Stellenbosch F. C.",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Kaizer Chiefs F. C.",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 27,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Mamelodi Sundowns F. C.",
+          "caps": 13,
+          "goals": 4,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "code": "KOR",
+      "name": "South Korea",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "A",
+      "code": "CZE",
+      "name": "Czechia",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Viktoria Pilsen",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 20,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Hoffenheim",
+          "caps": 12,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Centrocampista",
+          "age": null,
+          "club": "West Ham United",
+          "caps": 79,
+          "goals": 14,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Slavia Praga",
+          "caps": 12,
+          "goals": 4,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "CAN",
+      "name": "Canada",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 16,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Portland Timbers",
+          "caps": 25,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Toronto F. C.",
+          "caps": 62,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Vancouver Whitecaps F. C.",
+          "caps": 7,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Union Saint-Gilloise",
+          "caps": 1,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Rijeka",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Lens",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Slovan Liberec",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Universitatea Cluj",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "QAT",
+      "name": "Qatar",
+      "status": "OK",
+      "count": 22,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Mahmud Abunada",
+          "age": 26,
+          "club": "Al-Arabi",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Salah Zakaria",
+          "age": 27,
+          "club": "Al-Duhail",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Meshaal Barsham",
+          "age": 28,
+          "club": "Al-Sadd",
+          "caps": 47,
+          "goals": 0,
+          "photo": true
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Pedro Miguel",
+          "age": 35,
+          "club": "Al-Sadd",
+          "caps": 92,
+          "goals": 1,
+          "photo": true
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Abdelkarim Hassan",
+          "age": 32,
+          "club": "Al-Wakrah",
+          "caps": 124,
+          "goals": 15,
+          "photo": true
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "SUI",
+      "name": "Switzerland",
+      "status": "OK",
+      "count": 24,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Gregor Kobel",
+          "age": 28,
+          "club": "Borussia Dortmund",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Yvon Mvogo",
+          "age": 31,
+          "club": "F. C. Lorient",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Pascal Loretz",
+          "age": 22,
+          "club": "F. C. Lucerna",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Lucas Blondel",
+          "age": 29,
+          "club": "C. A. Boca Juniors",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Albian Hajdari",
+          "age": 22,
+          "club": "F. C. Lugano",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "BRA",
+      "name": "Brazil",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Fenerbahçe",
+          "caps": 25,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "A. S. Roma",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 18,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Galatasaray",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Bournemouth",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "MAR",
+      "name": "Morocco",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Raja Casablanca",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 28,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Raja Casablanca",
+          "caps": 15,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Roma",
+          "caps": 10,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Sunderland",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "HAI",
+      "name": "Haiti",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 12,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "FC Cosmos Koblenz",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 13,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Colorado Springs Switchbacks",
+          "caps": 10,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 17,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Philadelphia Union",
+          "caps": 24,
+          "goals": 5,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Toronto F. C.",
+          "caps": 43,
+          "goals": 8,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "SCO",
+      "name": "Scotland",
+      "status": "OK",
+      "count": 23,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Craig Gordon",
+          "age": 43,
+          "club": "Heart of Midlothian F. C.",
+          "caps": 81,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Liam Kelly",
+          "age": 30,
+          "club": "Rangers F. C.",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Cieran Slicker",
+          "age": 23,
+          "club": "Ipswich Town F. C.",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Anthony Ralston",
+          "age": 27,
+          "club": "Celtic F. C.",
+          "caps": 20,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Andrew Robertson",
+          "age": 32,
+          "club": "Liverpool F. C.",
+          "caps": 82,
+          "goals": 4,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "USA",
+      "name": "United States",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "D",
+      "code": "PAR",
+      "name": "Paraguay",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Olimpia",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Lanús",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Talleres",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Portsmouth",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "AUS",
+      "name": "Australia",
+      "status": "OK",
+      "count": 1,
+      "sample": [
+        {
+          "number": 1,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "AZ Alkmaar",
+          "caps": 100,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "TUR",
+      "name": "Türkiye",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Trabzonspor",
+          "caps": 31,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Palermo F. C.",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Fenerbahçe S. K.",
+          "caps": 23,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Eyüpspor",
+          "caps": 15,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "GER",
+      "name": "Germany",
+      "status": "OK",
+      "count": 11,
+      "sample": [
+        {
+          "number": 1,
+          "position": "Unknown",
+          "name": "1980–2000",
+          "age": null,
+          "club": "Unknown",
+          "caps": 23,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "Unknown",
+          "name": "2001–2014",
+          "age": null,
+          "club": "Unknown",
+          "caps": 71,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "Unknown",
+          "name": "2010-2024",
+          "age": null,
+          "club": "Unknown",
+          "caps": 45,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "Unknown",
+          "name": "2004–2017",
+          "age": null,
+          "club": "Unknown",
+          "caps": 49,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 5,
+          "position": "Unknown",
+          "name": "2004–2016",
+          "age": null,
+          "club": "Unknown",
+          "caps": 24,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "CUW",
+      "name": "Curaçao",
+      "status": "OK",
+      "count": 22,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Eloy Room",
+          "age": 37,
+          "club": "Miami FC",
+          "caps": 68,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Tyrick Bodak",
+          "age": 23,
+          "club": "SC Telstar",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Trevor Doornbusch",
+          "age": 26,
+          "club": "VVV-Venlo",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Shurandy Sambo",
+          "age": 24,
+          "club": "Sparta de Róterdam",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Juriën Gaari",
+          "age": 32,
+          "club": "Abha Club",
+          "caps": 52,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "CIV",
+      "name": "Côte d'Ivoire",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Panathinaikos",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "F. C. Metz",
+          "caps": 24,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Trabzonspor",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "RB Leipzig",
+          "caps": 8,
+          "goals": 3,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "ECU",
+      "name": "Ecuador",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Liga Deportiva Universitaria",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "GK",
+          "name": "Defensa",
+          "age": null,
+          "club": "C. Tijuana",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "MF",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "K. R. C. Genk",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "VfB Stuttgart",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "NED",
+      "name": "Netherlands",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Brentford F. C.",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Ajax de Ámsterdam",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Centrocampista",
+          "age": null,
+          "club": "F. C. Barcelona",
+          "caps": 57,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "AFC Bournemouth",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "JPN",
+      "name": "Japan",
+      "status": "OK",
+      "count": 23,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Zion Suzuki",
+          "age": 23,
+          "club": "Parma",
+          "caps": 18,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Keisuke Ōsako",
+          "age": 26,
+          "club": "Sanfrecce Hiroshima",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Kosei Tani",
+          "age": 25,
+          "club": "Machida Zelvia",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Yukinari Sugawara",
+          "age": 25,
+          "club": "Southampton",
+          "caps": 15,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Kota Takai",
+          "age": 21,
+          "club": "Kawasaki Frontale",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "SWE",
+      "name": "Sweden",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Coventry City F. C.",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Bologna F. C.",
+          "caps": 12,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Racing de Estrasburgo",
+          "caps": 8,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": 20,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "F. C. Nordsjælland",
+          "caps": 2,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "TUN",
+      "name": "Tunisia",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Étoile du Sahel",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Ajmat Grozni",
+          "caps": 19,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 27,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Espérance de Tunis",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 28,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Zamalek S. C.",
+          "caps": 43,
+          "goals": 11,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "BEL",
+      "name": "Belgium",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 13,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Nottingham Forest Football Club",
+          "caps": 9,
+          "goals": null,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Fulham Football Club",
+          "caps": 54,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 20,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Club Brugge",
+          "caps": 25,
+          "goals": 5,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Eintracht Frankfurt",
+          "caps": 55,
+          "goals": 27,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "EGY",
+      "name": "Egypt",
+      "status": "OK",
+      "count": 28,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Ahmed El Shenawy",
+          "age": 34,
+          "club": "Pyramids",
+          "caps": 29,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "GK",
+          "name": "Mohamed Sobhy",
+          "age": 26,
+          "club": "Zamalek",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Mohamed El Shenawy",
+          "age": 37,
+          "club": "Al-Ahly",
+          "caps": 72,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "GK",
+          "name": "Mostafa Shobeir",
+          "age": 26,
+          "club": "Al-Ahly",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Khaled Sobhi",
+          "age": 31,
+          "club": "Al-Masry",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "IRN",
+      "name": "Iran",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Esteghlal Tehran",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Sepahan",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 17,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Sepahan",
+          "caps": 9,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 20,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Shabab Al-Ahli",
+          "caps": 91,
+          "goals": 57,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "NZL",
+      "name": "New Zealand",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Perth Glory",
+          "caps": 9,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Reading",
+          "caps": 13,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 7,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "N. A. C. Breda",
+          "caps": 26,
+          "goals": 5,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Saint Etienne",
+          "caps": 12,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "ESP",
+      "name": "Spain",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "H",
+      "code": "CPV",
+      "name": "Cape Verde",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Al-Hazem",
+          "caps": 7,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Columbus Crew",
+          "caps": 17,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 18,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Vitória Guimarães",
+          "caps": 11,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "İstanbul Başakşehir",
+          "caps": 4,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "MF",
+          "name": "Portero",
+          "age": null,
+          "club": "Al-Qadisiyah",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Al-Ahli",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Al-Qadisiyah",
+          "caps": 10,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Al-Kholood Club",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "URU",
+      "name": "Uruguay",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "I",
+      "code": "FRA",
+      "name": "France",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "París Saint Germain F. C.",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 15,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Liverpool F. C.",
+          "caps": 27,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 24,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Manchester City F. C.",
+          "caps": 5,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "A. S. Mónaco",
+          "caps": 7,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "code": "SEN",
+      "name": "Senegal",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "I",
+      "code": "IRQ",
+      "name": "Iraq",
+      "status": "OK",
+      "count": 23,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Ahmed Basil Fadhil",
+          "age": 29,
+          "club": "Al-Shorta",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Jalal Hassan",
+          "age": 34,
+          "club": "Al-Zawraa",
+          "caps": 91,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Ali Kadhim",
+          "age": 29,
+          "club": "Zakho",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Rebin Sulaka",
+          "age": 34,
+          "club": "Erbil",
+          "caps": 49,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Hussein Ali",
+          "age": 24,
+          "club": "Heerenveen",
+          "caps": 19,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "code": "NOR",
+      "name": "Norway",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "J",
+      "code": "ARG",
+      "name": "Argentina",
+      "status": "OK",
+      "count": 19,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Walter Benítez",
+          "age": 33,
+          "club": "Crystal Palace",
+          "caps": 1,
+          "goals": 0,
+          "photo": true
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Gerónimo Rulli",
+          "age": 33,
+          "club": "Olympique de Marsella",
+          "caps": 7,
+          "goals": 0,
+          "photo": true
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Emiliano Martínez",
+          "age": 33,
+          "club": "Aston Villa",
+          "caps": 59,
+          "goals": 0,
+          "photo": true
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Nicolás Tagliafico",
+          "age": 33,
+          "club": "Olympique de Lyon",
+          "caps": 75,
+          "goals": 1,
+          "photo": true
+        },
+        {
+          "number": 6,
+          "position": "DF",
+          "name": "Leonardo Balerdi",
+          "age": 27,
+          "club": "Olympique de Marsella",
+          "caps": 6,
+          "goals": 0,
+          "photo": true
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "ALG",
+      "name": "Algeria",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Granada C. F.",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Paris F. C.",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 27,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Al-Duhail S. C.",
+          "caps": 6,
+          "goals": 4,
+          "photo": false
+        },
+        {
+          "number": 28,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Al-Wakrah S. C.",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "AUT",
+      "name": "Austria",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 13,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Brøndby",
+          "caps": 14,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 19,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Borussia Mönchengladbach",
+          "caps": 39,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Centrocampista",
+          "age": null,
+          "club": "Borussia Mönchengladbach",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 17,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Werder Bremen",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "JOR",
+      "name": "Jordan",
+      "status": "OK",
+      "count": 15,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Yazeed Abulaila",
+          "age": 33,
+          "club": "Al-Hussein",
+          "caps": 49,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Abdallah Al-Fakhouri",
+          "age": 26,
+          "club": "Al-Wehdat",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Mohammad Abu Hashish",
+          "age": 30,
+          "club": "Zakho",
+          "caps": 36,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Abdallah Nasib",
+          "age": 32,
+          "club": "Al-Hussein",
+          "caps": 42,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "DF",
+          "name": "Husam Abu Dahab",
+          "age": 25,
+          "club": "Al-Faisaly",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "code": "POR",
+      "name": "Portugal",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "K",
+      "code": "COD",
+      "name": "Congo DR",
+      "status": "OK",
+      "count": 28,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Lionel Mpasi",
+          "age": 31,
+          "club": "Le Havre AC",
+          "caps": 21,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "GK",
+          "name": "Timothy Fayulu",
+          "age": 26,
+          "club": "FC Noah",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Matthieu Epolo",
+          "age": 21,
+          "club": "Standard de Lieja",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 28,
+          "position": "GK",
+          "name": "Dimitry Bertaud",
+          "age": 27,
+          "club": "Sin club",
+          "caps": 14,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Aaron Wan-Bissaka",
+          "age": 28,
+          "club": "West Ham United",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "K",
+      "code": "COL",
+      "name": "Colombia",
+      "status": "SIN_DATOS",
+      "count": 0,
+      "sample": []
+    },
+    {
+      "group": "L",
+      "code": "ENG",
+      "name": "England",
+      "status": "OK",
+      "count": 10,
+      "sample": [
+        {
+          "number": 1,
+          "position": "Unknown",
+          "name": "2015–act.",
+          "age": null,
+          "club": "Unknown",
+          "caps": 112,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "Unknown",
+          "name": "2003–2018",
+          "age": null,
+          "club": "-",
+          "caps": 120,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "Unknown",
+          "name": "1958-1970",
+          "age": null,
+          "club": "Unknown",
+          "caps": 106,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "Unknown",
+          "name": "1984-1992",
+          "age": null,
+          "club": "-",
+          "caps": 80,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 5,
+          "position": "Unknown",
+          "name": "1959-1967",
+          "age": null,
+          "club": "Unknown",
+          "caps": 57,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "CRO",
+      "name": "Croatia",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Pafos F. C.",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "F. C. Union Berlin",
+          "caps": 39,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Dinamo Zagreb",
+          "caps": 7,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 20,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Union Saint-Gilloise",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "GHA",
+      "name": "Ghana",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 16,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Hearts of Oak S. C.",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "FC Spartak de Moscú",
+          "caps": 34,
+          "goals": 4,
+          "photo": false
+        },
+        {
+          "number": 27,
+          "position": "MF",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Tottenham Hotspur",
+          "caps": 44,
+          "goals": 12,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Coventry City F. C.",
+          "caps": 4,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "PAN",
+      "name": "Panama",
+      "status": "OK",
+      "count": 4,
+      "sample": [
+        {
+          "number": 22,
+          "position": "Unknown",
+          "name": "Portero",
+          "age": null,
+          "club": "Al-Fayha F. C.",
+          "caps": 40,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "Unknown",
+          "name": "Defensa",
+          "age": null,
+          "club": "Olympique de Marsella",
+          "caps": 88,
+          "goals": 9,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "Unknown",
+          "name": "Mediocampista",
+          "age": null,
+          "club": "Estudiantes de Mérida F. C.",
+          "caps": 13,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 18,
+          "position": "Unknown",
+          "name": "Delantero",
+          "age": null,
+          "club": "Coquimbo Unido",
+          "caps": 52,
+          "goals": 14,
+          "photo": false
+        }
+      ]
+    }
+  ]
+}

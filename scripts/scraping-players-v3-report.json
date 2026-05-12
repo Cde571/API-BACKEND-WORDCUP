@@ -1,0 +1,3035 @@
+{
+  "generatedAt": "2026-05-12T19:23:39.170Z",
+  "fetchPhotos": false,
+  "requestDelayMs": 4500,
+  "minValidPlayers": 10,
+  "totalTeams": 48,
+  "totalPlayers": 1227,
+  "totalSaved": 1227,
+  "report": [
+    {
+      "group": "A",
+      "code": "CZE",
+      "name": "Czechia",
+      "count": 13,
+      "saved": 13,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Chequia#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1993-1997",
+          "age": null,
+          "club": "11",
+          "caps": 27,
+          "goals": 10,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1998-2001",
+          "age": null,
+          "club": "11",
+          "caps": 27,
+          "goals": 7,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "2001-2008",
+          "age": null,
+          "club": "14",
+          "caps": 50,
+          "goals": 12,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "2008-2009",
+          "age": null,
+          "club": "2",
+          "caps": 2,
+          "goals": 4,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "2009",
+          "age": null,
+          "club": "0",
+          "caps": 3,
+          "goals": 2,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "code": "KOR",
+      "name": "South Korea",
+      "count": 30,
+      "saved": 30,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Korea_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Lee Chang-geun",
+          "age": 32,
+          "club": "Daejeon Hana Citizen",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Kim Dong-heon",
+          "age": 29,
+          "club": "Incheon United",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Jens Castrop",
+          "age": 22,
+          "club": "Borussia Mönchengladbach",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Lee Myung-jae",
+          "age": 32,
+          "club": "Daejeon Hana Citizen",
+          "caps": 10,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Jeong Sang-bin",
+          "age": 24,
+          "club": "St. Louis City",
+          "caps": 3,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "code": "MEX",
+      "name": "Mexico",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Guillermo Ochoa",
+          "age": 40,
+          "club": "AEL Limassol",
+          "caps": 151,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Luis Malagón",
+          "age": 29,
+          "club": "América",
+          "caps": 19,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Carlos Moreno",
+          "age": 28,
+          "club": "Pachuca",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Sebastián Jurado",
+          "age": 28,
+          "club": "Juárez",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "José Antonio Rodríguez",
+          "age": 33,
+          "club": "Tijuana",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "A",
+      "code": "RSA",
+      "name": "South Africa",
+      "count": 25,
+      "saved": 25,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/South_Africa_national_soccer_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Brandon Petersen",
+          "age": 31,
+          "club": "Kaizer Chiefs",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Siyabonga Ngezana",
+          "age": 28,
+          "club": "FCSB",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Thabo Moloisane",
+          "age": 27,
+          "club": "Stellenbosch",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Fawaaz Basadien",
+          "age": 29,
+          "club": "Mamelodi Sundowns",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Malibongwe Khoza",
+          "age": 22,
+          "club": "Mamelodi Sundowns",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "count": 19,
+      "saved": 19,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Bosnia_y_Herzegovina#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "30 de noviembre de 1995",
+          "age": null,
+          "club": "2",
+          "caps": 18,
+          "goals": 7,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "14 de mayo de 1998",
+          "age": null,
+          "club": "2",
+          "caps": 7,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "10 de marzo de 1999",
+          "age": null,
+          "club": "2",
+          "caps": 7,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "18 de agosto de 1999",
+          "age": null,
+          "club": "1",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "24 de enero de 2000",
+          "age": null,
+          "club": "4",
+          "caps": 14,
+          "goals": 5,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "CAN",
+      "name": "Canada",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Canada_men%27s_national_soccer_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Luka Gavran",
+          "age": 26,
+          "club": "Toronto FC",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "James Pantemis",
+          "age": 29,
+          "club": "Portland Timbers",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Jayden Hibbert",
+          "age": 21,
+          "club": "Atlanta United",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Tom McGill",
+          "age": 26,
+          "club": "Brighton & Hove Albion",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Jonathan Sirois",
+          "age": 24,
+          "club": "FC Dallas",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "QAT",
+      "name": "Qatar",
+      "count": 22,
+      "saved": 22,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Catar#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Mahmud Abunada",
+          "age": 26,
+          "club": "Al-Arabi",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Salah Zakaria",
+          "age": 27,
+          "club": "Al-Duhail",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Meshaal Barsham",
+          "age": 28,
+          "club": "Al-Sadd",
+          "caps": 47,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Pedro Miguel",
+          "age": 35,
+          "club": "Al-Sadd",
+          "caps": 92,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Abdelkarim Hassan",
+          "age": 32,
+          "club": "Al-Wakrah",
+          "caps": 124,
+          "goals": 15,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "code": "SUI",
+      "name": "Switzerland",
+      "count": 24,
+      "saved": 24,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Suiza#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Gregor Kobel",
+          "age": 28,
+          "club": "Borussia Dortmund",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Yvon Mvogo",
+          "age": 31,
+          "club": "F. C. Lorient",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Pascal Loretz",
+          "age": 22,
+          "club": "F. C. Lucerna",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Lucas Blondel",
+          "age": 29,
+          "club": "C. A. Boca Juniors",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Albian Hajdari",
+          "age": 22,
+          "club": "F. C. Lugano",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "BRA",
+      "name": "Brazil",
+      "count": 34,
+      "saved": 34,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Alisson",
+          "age": 33,
+          "club": "Liverpool",
+          "caps": 76,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "John Victor",
+          "age": 30,
+          "club": "Nottingham Forest",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Wesley",
+          "age": 22,
+          "club": "Roma",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Alex Sandro",
+          "age": 35,
+          "club": "Flamengo",
+          "caps": 43,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Gabriel Magalhães",
+          "age": 28,
+          "club": "Arsenal",
+          "caps": 17,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "HAI",
+      "name": "Haiti",
+      "count": 23,
+      "saved": 23,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Haiti_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Alexandre Pierre",
+          "age": 25,
+          "club": "Sochaux",
+          "caps": 14,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Josué Duverger",
+          "age": 26,
+          "club": "Cosmos Koblenz",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Wilguens Paugain",
+          "age": 24,
+          "club": "Zulte Waregem",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Delentz Pierre",
+          "age": 25,
+          "club": "Tulsa",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "DF",
+          "name": "Ricardo Adé",
+          "age": 35,
+          "club": "LDU Quito",
+          "caps": 57,
+          "goals": 2,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "MAR",
+      "name": "Morocco",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Morocco_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Munir Mohamedi",
+          "age": 37,
+          "club": "RS Berkane",
+          "caps": 50,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Salaheddine Chihab",
+          "age": 33,
+          "club": "MAS Fès",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Rachid Ghanimi",
+          "age": 25,
+          "club": "FUS Rabat",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Romain Saïss",
+          "age": 36,
+          "club": "Al-Sadd",
+          "caps": 86,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Nayef Aguerd",
+          "age": 30,
+          "club": "Marseille",
+          "caps": 64,
+          "goals": 2,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "code": "SCO",
+      "name": "Scotland",
+      "count": 23,
+      "saved": 23,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Escocia#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Craig Gordon",
+          "age": 43,
+          "club": "Heart of Midlothian F. C.",
+          "caps": 81,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Liam Kelly",
+          "age": 30,
+          "club": "Rangers F. C.",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Cieran Slicker",
+          "age": 23,
+          "club": "Ipswich Town F. C.",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Anthony Ralston",
+          "age": 27,
+          "club": "Celtic F. C.",
+          "caps": 20,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Andrew Robertson",
+          "age": 32,
+          "club": "Liverpool F. C.",
+          "caps": 82,
+          "goals": 4,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "AUS",
+      "name": "Australia",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Joe Gauci",
+          "age": 25,
+          "club": "Port Vale",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Tom Glover",
+          "age": 28,
+          "club": "RB Omiya Ardija",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Fran Karačić",
+          "age": 29,
+          "club": "Osijek",
+          "caps": 15,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Lewis Miller",
+          "age": 25,
+          "club": "Blackburn Rovers",
+          "caps": 19,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Callum Elder",
+          "age": 31,
+          "club": "Derby County",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "PAR",
+      "name": "Paraguay",
+      "count": 25,
+      "saved": 25,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paraguay_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Roberto Fernández",
+          "age": 38,
+          "club": "Cerro Porteño",
+          "caps": 30,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Orlando Gill",
+          "age": 25,
+          "club": "San Lorenzo",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Gastón Olveira",
+          "age": 33,
+          "club": "Olimpia",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Gustavo Velázquez",
+          "age": 35,
+          "club": "Cerro Porteño",
+          "caps": 12,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Omar Alderete",
+          "age": 29,
+          "club": "Sunderland",
+          "caps": 35,
+          "goals": 3,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "TUR",
+      "name": "Türkiye",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Turqu%C3%ADa#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "26/10/1923",
+          "age": null,
+          "club": "1",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "25/5/1924",
+          "age": null,
+          "club": "0",
+          "caps": 12,
+          "goals": 5,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "17/7/1927",
+          "age": null,
+          "club": "1",
+          "caps": 8,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "22/4/1932",
+          "age": null,
+          "club": "0",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "12/7/1936",
+          "age": null,
+          "club": "1",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "code": "USA",
+      "name": "United States",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Roman Celentano",
+          "age": 25,
+          "club": "FC Cincinnati",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Jonathan Klinsmann",
+          "age": 29,
+          "club": "Cesena",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Diego Kochen",
+          "age": 20,
+          "club": "Barcelona Atlètic",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Zack Steffen",
+          "age": 31,
+          "club": "Colorado Rapids",
+          "caps": 30,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Sergiño Dest",
+          "age": 25,
+          "club": "PSV Eindhoven",
+          "caps": 37,
+          "goals": 2,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "CIV",
+      "name": "Côte d'Ivoire",
+      "count": 25,
+      "saved": 25,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ivory_Coast_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Charles Folly Ayayi",
+          "age": 35,
+          "club": "ASEC Mimosas",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Badra Ali Sangaré",
+          "age": 39,
+          "club": "Unattached",
+          "caps": 31,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Jean-Philippe Gbamin",
+          "age": 30,
+          "club": "Metz",
+          "caps": 23,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Willy Boly",
+          "age": 35,
+          "club": "Nottingham Forest",
+          "caps": 22,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Christopher Opéri",
+          "age": 29,
+          "club": "İstanbul Başakşehir",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "CUW",
+      "name": "Curaçao",
+      "count": 22,
+      "saved": 22,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Curazao#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Eloy Room",
+          "age": 37,
+          "club": "Miami FC",
+          "caps": 68,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Tyrick Bodak",
+          "age": 23,
+          "club": "SC Telstar",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Trevor Doornbusch",
+          "age": 26,
+          "club": "VVV-Venlo",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Shurandy Sambo",
+          "age": 24,
+          "club": "Sparta de Róterdam",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Juriën Gaari",
+          "age": 32,
+          "club": "Abha Club",
+          "caps": 52,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "ECU",
+      "name": "Ecuador",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1938",
+          "age": null,
+          "club": "1",
+          "caps": 5,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1939",
+          "age": null,
+          "club": "0",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1941",
+          "age": null,
+          "club": "0",
+          "caps": 10,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1945",
+          "age": null,
+          "club": "1",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1947",
+          "age": null,
+          "club": "3",
+          "caps": 7,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "code": "GER",
+      "name": "Germany",
+      "count": 11,
+      "saved": 11,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Alemania#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "Unknown",
+          "name": "1980–2000",
+          "age": null,
+          "club": "Unknown",
+          "caps": 23,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "Unknown",
+          "name": "2001–2014",
+          "age": null,
+          "club": "Unknown",
+          "caps": 71,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "Unknown",
+          "name": "2010-2024",
+          "age": null,
+          "club": "Unknown",
+          "caps": 45,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "Unknown",
+          "name": "2004–2017",
+          "age": null,
+          "club": "Unknown",
+          "caps": 49,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 5,
+          "position": "Unknown",
+          "name": "2004–2016",
+          "age": null,
+          "club": "Unknown",
+          "caps": 24,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "JPN",
+      "name": "Japan",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Jap%C3%B3n#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1951",
+          "age": null,
+          "club": "6",
+          "caps": 19,
+          "goals": 6,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "2004",
+          "age": null,
+          "club": "1",
+          "caps": 4,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "2005",
+          "age": null,
+          "club": "1",
+          "caps": 2,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1990",
+          "age": null,
+          "club": "2",
+          "caps": 18,
+          "goals": 11,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1992",
+          "age": null,
+          "club": "0",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "NED",
+      "name": "Netherlands",
+      "count": 25,
+      "saved": 25,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Netherlands_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Bart Verbruggen",
+          "age": 23,
+          "club": "Brighton & Hove Albion",
+          "caps": 27,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 13,
+          "position": "GK",
+          "name": "Justin Bijlow",
+          "age": 28,
+          "club": "Genoa",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Mark Flekken",
+          "age": 32,
+          "club": "Bayer Leverkusen",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Lutsharel Geertruida",
+          "age": 25,
+          "club": "Sunderland",
+          "caps": 20,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Jan Paul van Hecke",
+          "age": 25,
+          "club": "Brighton & Hove Albion",
+          "caps": 10,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "SWE",
+      "name": "Sweden",
+      "count": 7,
+      "saved": 0,
+      "status": "REVISAR",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Suecia#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Cuartos de final",
+          "age": null,
+          "club": "0",
+          "caps": 5,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Cuarto puesto",
+          "age": null,
+          "club": "0",
+          "caps": 3,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Tercer lugar",
+          "age": null,
+          "club": "3",
+          "caps": 7,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Subcampeón",
+          "age": null,
+          "club": "1",
+          "caps": 6,
+          "goals": 4,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Primera ronda",
+          "age": null,
+          "club": "0",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "code": "TUN",
+      "name": "Tunisia",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_T%C3%BAnez#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1956",
+          "age": null,
+          "club": "0",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1957",
+          "age": null,
+          "club": "2",
+          "caps": 15,
+          "goals": 7,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1960",
+          "age": null,
+          "club": "4",
+          "caps": 23,
+          "goals": 5,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1961",
+          "age": null,
+          "club": "2",
+          "caps": 6,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1963",
+          "age": null,
+          "club": "9",
+          "caps": 34,
+          "goals": 15,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "BEL",
+      "name": "Belgium",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_B%C3%A9lgica#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1904–1909",
+          "age": null,
+          "club": "10",
+          "caps": 8,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1910–1913",
+          "age": null,
+          "club": "9",
+          "caps": 11,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1914",
+          "age": null,
+          "club": "4",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1914–1919",
+          "age": null,
+          "club": "0",
+          "caps": 0,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1920–1928",
+          "age": null,
+          "club": "28",
+          "caps": 18,
+          "goals": 10,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "EGY",
+      "name": "Egypt",
+      "count": 28,
+      "saved": 28,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Egipto#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Ahmed El Shenawy",
+          "age": 34,
+          "club": "Pyramids",
+          "caps": 29,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "GK",
+          "name": "Mohamed Sobhy",
+          "age": 26,
+          "club": "Zamalek",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Mohamed El Shenawy",
+          "age": 37,
+          "club": "Al-Ahly",
+          "caps": 72,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "GK",
+          "name": "Mostafa Shobeir",
+          "age": 26,
+          "club": "Al-Ahly",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Khaled Sobhi",
+          "age": 31,
+          "club": "Al-Masry",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "IRN",
+      "name": "Iran",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Iran_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Mohammad Reza Akhbari",
+          "age": 33,
+          "club": "Sepahan",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Ahmad Gohari",
+          "age": 30,
+          "club": "Paykan",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Nima Mirzazad",
+          "age": 29,
+          "club": "Mes Rafsanjan",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Parsa Jafari",
+          "age": 26,
+          "club": "Zob Ahan",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Abolfazl Jalali",
+          "age": 27,
+          "club": "Esteghlal",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "code": "NZL",
+      "name": "New Zealand",
+      "count": 5,
+      "saved": 0,
+      "status": "REVISAR",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Nueva_Zelanda#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Campeón",
+          "age": null,
+          "club": "0",
+          "caps": 4,
+          "goals": 4,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Fase de grupos",
+          "age": null,
+          "club": "0",
+          "caps": 3,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Semifinales",
+          "age": null,
+          "club": "1",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Subcampeón",
+          "age": null,
+          "club": "0",
+          "caps": 4,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "Tercer lugar",
+          "age": null,
+          "club": "1",
+          "caps": 5,
+          "goals": 3,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "CPV",
+      "name": "Cape Verde",
+      "count": 28,
+      "saved": 28,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cape_Verde_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Bruno Varela",
+          "age": 31,
+          "club": "Al-Hazem",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Henrique Tavares",
+          "age": 23,
+          "club": "Rousset",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Stopira",
+          "age": 37,
+          "club": "Torreense",
+          "caps": 60,
+          "goals": 4,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Jójó",
+          "age": 24,
+          "club": "Vizela",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "David Moreira",
+          "age": 22,
+          "club": "Sporting B",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "ESP",
+      "name": "Spain",
+      "count": 26,
+      "saved": 26,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spain_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "David Raya",
+          "age": 30,
+          "club": "Arsenal",
+          "caps": 12,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 13,
+          "position": "GK",
+          "name": "Álex Remiro",
+          "age": 31,
+          "club": "Real Sociedad",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 18,
+          "position": "GK",
+          "name": "Joan Garcia",
+          "age": 25,
+          "club": "Barcelona",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Unai Simón",
+          "age": 28,
+          "club": "Athletic Bilbao",
+          "caps": 57,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Cristhian Mosquera",
+          "age": 21,
+          "club": "Arsenal",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "count": 28,
+      "saved": 28,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saudi_Arabia_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Abdulrahman Al-Sanbi",
+          "age": 25,
+          "club": "Al-Ahli",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Raghed Al-Najjar",
+          "age": 29,
+          "club": "Al-Nassr",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Osama Al-Mermesh",
+          "age": 22,
+          "club": "Al-Ittihad",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Hamed Al-Shanqiti",
+          "age": 21,
+          "club": "Al-Ittihad",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Moteb Al-Harbi",
+          "age": 26,
+          "club": "Al-Hilal",
+          "caps": 10,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "code": "URU",
+      "name": "Uruguay",
+      "count": 22,
+      "saved": 22,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Cristopher Fiermarin",
+          "age": 28,
+          "club": "Defensa y Justicia",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Kevin Martínez",
+          "age": 21,
+          "club": "Danubio",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Franco Israel",
+          "age": 26,
+          "club": "Torino",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Paulo da Costa",
+          "age": 17,
+          "club": "Peñarol",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Marcelo Saracchi",
+          "age": 28,
+          "club": "Celtic",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "code": "FRA",
+      "name": "France",
+      "count": 25,
+      "saved": 25,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/France_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Brice Samba",
+          "age": 32,
+          "club": "Rennes",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "GK",
+          "name": "Mike Maignan",
+          "age": 30,
+          "club": "AC Milan",
+          "caps": 38,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Lucas Chevalier",
+          "age": 24,
+          "club": "Paris Saint-Germain",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Malo Gusto",
+          "age": 22,
+          "club": "Chelsea",
+          "caps": 9,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Lucas Digne",
+          "age": 32,
+          "club": "Aston Villa",
+          "caps": 56,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "code": "IRQ",
+      "name": "Iraq",
+      "count": 23,
+      "saved": 23,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Irak#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Ahmed Basil Fadhil",
+          "age": 29,
+          "club": "Al-Shorta",
+          "caps": 8,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Jalal Hassan",
+          "age": 34,
+          "club": "Al-Zawraa",
+          "caps": 91,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Ali Kadhim",
+          "age": 29,
+          "club": "Zakho",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Rebin Sulaka",
+          "age": 34,
+          "club": "Erbil",
+          "caps": 49,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Hussein Ali",
+          "age": 24,
+          "club": "Heerenveen",
+          "caps": 19,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "code": "NOR",
+      "name": "Norway",
+      "count": 24,
+      "saved": 24,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Norway_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Ørjan Nyland",
+          "age": 35,
+          "club": "Sevilla",
+          "caps": 69,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Viljar Myhra",
+          "age": 29,
+          "club": "OB",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 13,
+          "position": "GK",
+          "name": "Egil Selvik",
+          "age": 28,
+          "club": "Watford",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Kristoffer Ajer",
+          "age": 28,
+          "club": "Brentford",
+          "caps": 50,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "DF",
+          "name": "Leo Skiri Østigård",
+          "age": 26,
+          "club": "Genoa",
+          "caps": 36,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "code": "SEN",
+      "name": "Senegal",
+      "count": 26,
+      "saved": 26,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Senegal_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Yehvann Diouf",
+          "age": 26,
+          "club": "Nice",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "GK",
+          "name": "Édouard Mendy",
+          "age": 34,
+          "club": "Al-Ahli",
+          "caps": 56,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Mory Diaw",
+          "age": 32,
+          "club": "Le Havre",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Mamadou Sarr",
+          "age": 20,
+          "club": "Chelsea",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "DF",
+          "name": "Abdoulaye Seck",
+          "age": 33,
+          "club": "Maccabi Haifa",
+          "caps": 21,
+          "goals": 4,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "ALG",
+      "name": "Algeria",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Algeria_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Oussama Benbot",
+          "age": 31,
+          "club": "USM Alger",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Farid Chaâl",
+          "age": 31,
+          "club": "CR Belouizdad",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Mohamed Idir Hadid",
+          "age": 24,
+          "club": "JS Kabylie",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Rayane Yesli",
+          "age": 26,
+          "club": "Olympique Akbou",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Alexis Guendouz",
+          "age": 30,
+          "club": "MC Alger",
+          "caps": 13,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "ARG",
+      "name": "Argentina",
+      "count": 19,
+      "saved": 19,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Walter Benítez",
+          "age": 33,
+          "club": "Crystal Palace",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Gerónimo Rulli",
+          "age": 33,
+          "club": "Olympique de Marsella",
+          "caps": 7,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 23,
+          "position": "GK",
+          "name": "Emiliano Martínez",
+          "age": 33,
+          "club": "Aston Villa",
+          "caps": 59,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Nicolás Tagliafico",
+          "age": 33,
+          "club": "Olympique de Lyon",
+          "caps": 75,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": 6,
+          "position": "DF",
+          "name": "Leonardo Balerdi",
+          "age": 27,
+          "club": "Olympique de Marsella",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "AUT",
+      "name": "Austria",
+      "count": 26,
+      "saved": 26,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Austria_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Alexander Schlager",
+          "age": 30,
+          "club": "Red Bull Salzburg",
+          "caps": 25,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Tobias Lawal",
+          "age": 25,
+          "club": "Genk",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 13,
+          "position": "GK",
+          "name": "Patrick Pentz",
+          "age": 29,
+          "club": "Brøndby",
+          "caps": 18,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 26,
+          "position": "GK",
+          "name": "Florian Wiegele",
+          "age": 25,
+          "club": "Viktoria Plzeň",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "David Affengruber",
+          "age": 25,
+          "club": "Elche",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "code": "JOR",
+      "name": "Jordan",
+      "count": 15,
+      "saved": 15,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Jordania#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Yazeed Abulaila",
+          "age": 33,
+          "club": "Al-Hussein",
+          "caps": 49,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Abdallah Al-Fakhouri",
+          "age": 26,
+          "club": "Al-Wehdat",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Mohammad Abu Hashish",
+          "age": 31,
+          "club": "Zakho",
+          "caps": 36,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Abdallah Nasib",
+          "age": 32,
+          "club": "Al-Hussein",
+          "caps": 42,
+          "goals": 2,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "DF",
+          "name": "Husam Abu Dahab",
+          "age": 25,
+          "club": "Al-Faisaly",
+          "caps": 5,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "code": "COD",
+      "name": "Congo DR",
+      "count": 28,
+      "saved": 28,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_la_Rep%C3%BAblica_Democr%C3%A1tica_del_Congo#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Lionel Mpasi",
+          "age": 31,
+          "club": "Le Havre AC",
+          "caps": 21,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 16,
+          "position": "GK",
+          "name": "Timothy Fayulu",
+          "age": 26,
+          "club": "FC Noah",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 21,
+          "position": "GK",
+          "name": "Matthieu Epolo",
+          "age": 21,
+          "club": "Standard de Lieja",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 28,
+          "position": "GK",
+          "name": "Dimitry Bertaud",
+          "age": 27,
+          "club": "Sin club",
+          "caps": 14,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Aaron Wan-Bissaka",
+          "age": 28,
+          "club": "West Ham United",
+          "caps": 6,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "code": "COL",
+      "name": "Colombia",
+      "count": 26,
+      "saved": 26,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Colombia_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "David Ospina",
+          "age": 37,
+          "club": "Atlético Nacional",
+          "caps": 129,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "Camilo Vargas",
+          "age": 37,
+          "club": "Atlas",
+          "caps": 40,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 25,
+          "position": "GK",
+          "name": "Álvaro Montero",
+          "age": 31,
+          "club": "Vélez Sarsfield",
+          "caps": 11,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Daniel Muñoz",
+          "age": 29,
+          "club": "Crystal Palace",
+          "caps": 44,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Jhon Lucumí",
+          "age": 27,
+          "club": "Bologna",
+          "caps": 35,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "code": "POR",
+      "name": "Portugal",
+      "count": 26,
+      "saved": 26,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Portugal_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "GK",
+          "name": "Ricardo Velho",
+          "age": 27,
+          "club": "Gençlerbirliği",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 12,
+          "position": "GK",
+          "name": "José Sá",
+          "age": 33,
+          "club": "Wolverhampton Wanderers",
+          "caps": 4,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 22,
+          "position": "GK",
+          "name": "Rui Silva",
+          "age": 32,
+          "club": "Sporting CP",
+          "caps": 2,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "DF",
+          "name": "Diogo Dalot",
+          "age": 27,
+          "club": "Manchester United",
+          "caps": 33,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "DF",
+          "name": "Tomás Araújo",
+          "age": 23,
+          "club": "Benfica",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "count": 23,
+      "saved": 23,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uzbekistan_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Vladimir Nazarov",
+          "age": 23,
+          "club": "Pakhtakor",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Husniddin Aliqulov",
+          "age": 27,
+          "club": "Çaykur Rizespor",
+          "caps": 34,
+          "goals": 3,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Abdulla Abdullaev",
+          "age": 28,
+          "club": "Dibba",
+          "caps": 27,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Alibek Davronov",
+          "age": 23,
+          "club": "Nasaf",
+          "caps": 7,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Dilshod Saitov",
+          "age": 27,
+          "club": "Pakhtakor",
+          "caps": 7,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "CRO",
+      "name": "Croatia",
+      "count": 13,
+      "saved": 13,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Croacia#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1990–1991",
+          "age": null,
+          "club": "0",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1992",
+          "age": null,
+          "club": "2",
+          "caps": 1,
+          "goals": 1,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1993–1994",
+          "age": null,
+          "club": "0",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1994–2000",
+          "age": null,
+          "club": "15",
+          "caps": 33,
+          "goals": 24,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "MF",
+          "name": "1994",
+          "age": null,
+          "club": "0",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "ENG",
+      "name": "England",
+      "count": 10,
+      "saved": 10,
+      "status": "OK",
+      "sourceLang": "ES",
+      "sourceUrl": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Inglaterra#Jugadores",
+      "error": null,
+      "sample": [
+        {
+          "number": 1,
+          "position": "Unknown",
+          "name": "2015–act.",
+          "age": null,
+          "club": "Unknown",
+          "caps": 112,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 2,
+          "position": "Unknown",
+          "name": "2003–2018",
+          "age": null,
+          "club": "-",
+          "caps": 120,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 3,
+          "position": "Unknown",
+          "name": "1958-1970",
+          "age": null,
+          "club": "Unknown",
+          "caps": 106,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 4,
+          "position": "Unknown",
+          "name": "1984-1992",
+          "age": null,
+          "club": "-",
+          "caps": 80,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": 5,
+          "position": "Unknown",
+          "name": "1959-1967",
+          "age": null,
+          "club": "Unknown",
+          "caps": 57,
+          "goals": 0,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "GHA",
+      "name": "Ghana",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ghana_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Gidios Aseako",
+          "age": 21,
+          "club": "Dreams",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Lawrence Ati-Zigi",
+          "age": 29,
+          "club": "St. Gallen",
+          "caps": 28,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Joseph Anang",
+          "age": 25,
+          "club": "St Patrick's Athletic",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Gideon Mensah",
+          "age": 27,
+          "club": "Auxerre",
+          "caps": 39,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Alexander Djiku",
+          "age": 31,
+          "club": "Spartak Moscow",
+          "caps": 38,
+          "goals": 4,
+          "photo": false
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "code": "PAN",
+      "name": "Panama",
+      "count": 35,
+      "saved": 35,
+      "status": "OK",
+      "sourceLang": "EN",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Panama_national_football_team",
+      "error": null,
+      "sample": [
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Eddie Roberts",
+          "age": 32,
+          "club": "Estudiantes de Mérida",
+          "caps": 3,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "John Gunn",
+          "age": 26,
+          "club": "New England Revolution",
+          "caps": 1,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Ian Flores",
+          "age": 21,
+          "club": "San Francisco II",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "GK",
+          "name": "Marcos De León",
+          "age": 28,
+          "club": "Sporting San Miguelito",
+          "caps": 0,
+          "goals": 0,
+          "photo": false
+        },
+        {
+          "number": null,
+          "position": "DF",
+          "name": "Richard Peralta",
+          "age": 32,
+          "club": "Monagas",
+          "caps": 17,
+          "goals": 1,
+          "photo": false
+        }
+      ]
+    }
+  ]
+}
